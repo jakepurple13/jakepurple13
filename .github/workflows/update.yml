@@ -13,11 +13,11 @@ jobs:
         - uses: actions/checkout@v2
         - uses: kaustubhgupta/PortfolioFy@v1.0
           with:
-            gh_token: ${{ secrets.profile }} # Create a secret for access token and modify the name as you wish
+            gh_token: ${{ secrets.profile_gen }} # Create a secret for access token and modify the name as you wish
   
         - uses: test-room-7/action-update-file@v1
           with:
             file-path: |
               index.html
             commit-msg: index file added
-            github-token: ${{ secrets.profile }}
+            github-token: ${{ secrets.profile_gen }}
