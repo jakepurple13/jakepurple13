@@ -1,0 +1,23 @@
+name: Latest portfolio
+on:
+  schedule:
+      # Runs at the end of every day. You can customise according to your need. You can also trigger this action for other events. Check github actions page for that.
+      - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:     
+  job_1:
+    name: update-index-with-project
+    runs-on: ubuntu-latest
+    steps:
+        - uses: actions/checkout@v2
+        - uses: kaustubhgupta/PortfolioFy@v1.0
+          with:
+            gh_token: ${{ secrets.profile }} # Create a secret for access token and modify the name as you wish
+  
+        - uses: test-room-7/action-update-file@v1
+          with:
+            file-path: |
+              index.html
+            commit-msg: index file added
+            github-token: ${{ secrets.profile }}
