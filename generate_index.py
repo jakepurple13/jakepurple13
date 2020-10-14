@@ -27,12 +27,12 @@ for repo in repo_list:
         repo_object = git.get_repo(git_username + '/' + repo)
         repo_topics = repo_object.get_topics()
         if len(repo_topics)!=0:
-            if 'project' in repo_topics:
+            if 'android' in repo_topics:
                 project_data[f'{repo}'] = {'repo_topics': repo_topics,
                                          'repo_description':repo_object.description, 
                                          'repo_stars': repo_object.stargazers_count,
                                          'repo_forks': repo_object.forks_count }
-            if 'hackathon' in repo_topics:
+            if 'kotlin' in repo_topics:
                 hackathon_data[f'{repo}'] = {'repo_topics': repo_topics,
                                          'repo_description':repo_object.description, 
                                          'repo_stars': repo_object.stargazers_count,
