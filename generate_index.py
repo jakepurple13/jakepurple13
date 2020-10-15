@@ -236,12 +236,12 @@ template = f'''
 <h3 style='color:#751878'>Followers: <b>{user_data['git_followers']}</b>, Following: <b>{user_data['git_following']}</b></h3>
 <br>
 <h1 style="color:#d45131"> My Projects👇</h1>
-<text class="text-info">(These repositories are tagged as project. *Updated: {user_data['latest_updated']})</text>
+<text class="text-info">(These repositories are tagged as Android. *Updated: {user_data['latest_updated']})</text>
 <br>
 {project_repos}
 <br>
-<h1 style="color:#d45131"> Hackathons I participated👇</h1>
-<text class="text-info">(These repositories are tagged as project. *Updated: {user_data['latest_updated']})</text>
+<h1 style="color:#d45131"> My Projects👇</h1>
+<text class="text-info">(These repositories are tagged as Kotlin. *Updated: {user_data['latest_updated']})</text>
 <br>
 {hackathon_repos}
 <br>
