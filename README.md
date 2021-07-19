@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **jakepurple13/jakepurple13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jakepurple13&show_icons=true&theme=darcula" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakepurple13&theme=darcula" width="48%" >
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakepurple13&layout=compact&theme=darcula)
