@@ -59,6 +59,68 @@
                 </g>
             </g>
             
+            <g id="stats" mask="url(#mask-6)">
+                <g transform="translate(59.000000, 516.000000)">
+                    <g id="publications" transform="translate(0.000000, 432.000000)">
+                        <g id="publication_icons" transform="translate(0.000000, 46.000000)">
+                            <mask id="mask-12" fill="white">
+                                <use xlink:href="#path-11"></use>
+                            </mask>
+                            <g transform="translate(0, 0.000000)" mask="url(#mask-12)">
+                <image x="0" y="0" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABuVBMVEUAuHUPvH2q59EwxY8bv4MKu3pFy5r///8Lu3sBuHUOvH0OvHyf5MtAypdz2LNy2LLQ8uYDuXcMu3sFuXjo+PIMu3zx+/fg9u4xxpBv17Fh06m16tY4x5P8/v30/PlHzJte0qgTvX9Sz6Gl5s47yJUdwIUJu3qO38ESvX/7/v3C7t7p+fNRzqGk5s5X0KS26tc1x5Kr59Eqw4y369ih5cxQzqBp1a2B27qj5c3q+fO77Npq1a6B3Lum5s532bV22bUBuHa87Num5s/s+vW06tZAyZeT4cQHunnT8+fa9esJunoNvHxg06mb48mS4MSI3r582rig5MuV4cXQ8uVb0aZ927mw6dQCuXbS8uclwokGungpw4t22bRLzZ3M8eN72reg5csXvoGA27qc48mq59BCypjw+/ex6dSR4MPl+PFCypn+//6K3r/F799RzqCu6NMxxY8yxpB52rbJ8OIow4oRvX41x5GG3b0GuXhs1q/E79+D3Ls+yZYIunmW4cb1/Pl12LQ3x5OE3LzX9OnB7d0sxIwrxIye5MstxI2W4sZEy5o5yJSP4MLU8+hW0KNt1rAPvH41xpH5/fzZ8jofAAAA90lEQVRIx2NgGAWjYBQMT8BpZEC8YnU+ATtDRx6oTj6FHEUVVahUNDM2DZIs7Lz8ysYWNhz2oRKlcmwl8nJF8jG+kf4BgSIZlXWNyl3tTdISyDqAGhxsmaQszfX9EoRzs4tlZJkVYkVCIsLYxJQampnZu9lVWphQNbgyOJmYOvPoMnAwFuaJl8sWJMWL+wTzC6YpSfZ2sE9kb+1E0cCmaS1o5WImpqOtpSeakpVflpkcJ+3h5hkULpAuVd8zqY+9v0oGWYMaFwcnNzcrozCrBgNDVGIFg6iQOweHEJc3pxcjg2LtBFX2GlaSwrytOnU04Y2CUTAsAQCG7S0bgM7CKwAAAABJRU5ErkJggg=="></image>
+              </g>
+                        </g>
+                        <text id="Favorite-publication" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                            <tspan x="0" y="22">Favorite publications</tspan>
+                        </text>
+                    </g>
+                    <g id="tags" transform="translate(0.000000, 156.000000)">
+                        <g transform="translate(0.000000, 0)">
+              <g id="bar" transform="translate(0.000000, 42.000000)">
+                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
+                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
+              </g>
+              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                <tspan x="0" y="22">Tech News</tspan>
+              </text>
+              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
+                <tspan x="336" y="43">1</tspan>
+              </text>
+            </g>,<g transform="translate(0.000000, 66)">
+              <g id="bar" transform="translate(0.000000, 42.000000)">
+                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
+                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
+              </g>
+              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                <tspan x="0" y="22">Kotlin</tspan>
+              </text>
+              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
+                <tspan x="336" y="43">1</tspan>
+              </text>
+            </g>,<g transform="translate(0.000000, 132)">
+              <g id="bar" transform="translate(0.000000, 42.000000)">
+                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
+                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
+              </g>
+              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                <tspan x="0" y="22">Android Development</tspan>
+              </text>
+              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
+                <tspan x="336" y="43">1</tspan>
+              </text>
+            </g>
+                    </g>
+                    <g id="total" transform="translate(-0.000000, 0.000000)">
+                        <text id="219" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="80" font-weight="bold" line-spacing="86" fill="#FFFFFF">
+                            <tspan x="0" y="74">1</tspan>
+                        </text>
+                        <text id="Articles-read" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="32" font-weight="normal" line-spacing="38" fill="#FFFFFF">
+                            <tspan x="0" y="116">Articles read</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            
             <g id="header" mask="url(#mask-6)">
                 <g transform="translate(35.000000, 48.000000)">
                     <g id="username" transform="translate(192.000000, 37.000000)" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="48" font-weight="bold" line-spacing="86">
