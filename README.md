@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakepurple13&layout=compact&theme=darcula)
-
-### Dev Card
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jakepurple13/jakepurple13/blob/main/devcard.svg" width="400" alt="Jacob Rein's Dev Card"/></a>
